@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2569112423
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0d48d83986f8e70e13e351430068247
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Textures/Box_Metal.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Textures/MapPointer_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Box/Textures/Box_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/Doll/Textures/DollDiffuse.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Screen/Textures/ScreenTexture.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/MapWithPins/Textures/MapFrame_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/Objects/Props/StonePolyhedra/Textures/StonePolyhedra_AlbedoRoughness.png
+- Assets/Oculus/Interaction/Samples/ThirdParty/Textures/ComprehensiveGrabMapTexture.png
+Dependencies: []
